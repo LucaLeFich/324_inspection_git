@@ -1,0 +1,80 @@
+[33mcommit bd58e6e622873ad82b7c3f09c32dd9ec3f61554b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: LucaLeFich <pq48wkn@eduvaud.ch>
+Date:   Fri Nov 7 11:07:53 2025 +0100
+
+    Update README Partie 2
+
+[33mcommit 68f2cb1c818e0aa76539a8018e9a1804babce4c6[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Thu Nov 6 21:59:37 2025 +0100
+
+    docs: mise à jour du README
+
+[33mcommit 374b8595e3cb82301be58528a0ef74387043f55d[m
+Merge: ed62890 74cc148
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:31 2025 +0100
+
+    merge(feature/login): intègre la page de connexion
+
+[33mcommit ed62890417d8c8fb880e55a2b8933b80b00ea1bd[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:30 2025 +0100
+
+    docs: ajoute un changelog de base
+
+[33mcommit c3446f8a0afa6866ff988d1bf4755d89c7aeb34d[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:28 2025 +0100
+
+    content: met à jour le slogan d'accueil
+
+[33mcommit 2bc06cd452ea15bc05ec9df57245f19ea4d92760[m
+Merge: 5d66c29 6317c07
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:23 2025 +0100
+
+    merge(hotfix/typo): corrige la typo sur main
+
+[33mcommit 6317c073f7514d580522c90fa1f0f0402066a48f[m[33m ([m[1;31morigin/hotfix/typo[m[33m)[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:21 2025 +0100
+
+    hotfix: corrige la typo 'Wolrd' dans le titre
+
+[33mcommit 5d66c29ef71dcd9f8e91794bf4c8591a9a56823d[m[33m ([m[1;33mtag: [m[1;33mv0.2[m[33m)[m
+Merge: 1b682c9 6b6d950
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:18 2025 +0100
+
+    merge(feature/header): intègre la navigation
+
+[33mcommit 1b682c91ef14cda333419e2e387a53033ae575a1[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:17 2025 +0100
+
+    chore(config): retire la clé API et documente la bonne pratique
+
+[33mcommit bea2d1aeaecd11e9c0af36cf6f052f65e82d36c5[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:16 2025 +0100
+
+    chore(config): AJOUT TEMPORAIRE d'une clé API (à retirer)
+
+[33mcommit 74cc148bf664c82b26a8bf5643c49f7bea1d58a9[m[33m ([m[1;31morigin/feature/login[m[33m)[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:14 2025 +0100
+
+    feature(login): ajoute page de connexion et pseudo-fonction JS
+
+[33mcommit 6b6d9500849a09b57a220d2f66ae2441e3690ad0[m[33m ([m[1;31morigin/feature/header[m[33m)[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:11 2025 +0100
+
+    feature(header): ajoute un header de navigation
+
+[33mcommit 4d28bc59eee6c8f52277bf505642a0e8e3595674[m[33m ([m[1;33mtag: [m[1;33mv0.1[m[33m)[m
+Author: Romain Rosay <romain.rosay@eduvaud.ch>
+Date:   Wed Nov 5 22:15:09 2025 +0100
+
+    Initial commit: structure HTML/CSS/JS + README + docs
