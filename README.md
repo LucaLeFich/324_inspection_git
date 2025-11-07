@@ -77,8 +77,16 @@ https://github.com/ETML-RRY/324_inspection_git.git
 
 ### Partie 4 — Branches et fusions
 
-9. Quelles branches ont été fusionnées dans `main` ?  
+9. Quelles branches ont été fusionnées dans `main` ?
+   ```sh
+   # merge(feature/header): intègre la navigation
+   # merge(hotfix/typo): corrige la typo sur main
+   # merge(feature/login): intègre la page de connexion
+   ```
 10. Quelle branche **n'a pas été fusionnée** ? Pourquoi, selon vous ? 
+   ```sh
+   # experiment/dark-mode car c'est juste une experiment
+   ```
 
 ### Partie 5 — Analyse du contenu
 
