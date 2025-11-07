@@ -40,21 +40,13 @@ https://github.com/ETML-RRY/324_inspection_git.git
    # feature/login
    # hotfix/typo
    ```  
-<<<<<<< HEAD
-3. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?
-=======
 2. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?
->>>>>>> 3920b4e0692a22569c67742cd86598960f26e8a3
    ```sh
    # v0.2
    # v0.1
    # correspondent aux versions du projet
    ```
-<<<<<<< HEAD
-5. Quelle est la **branche principale** du projet ?
-=======
 3. Quelle est la **branche principale** du projet ?
->>>>>>> 3920b4e0692a22569c67742cd86598960f26e8a3
    ```sh
    # main
    ```
