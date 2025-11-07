@@ -114,6 +114,12 @@ https://github.com/ETML-RRY/324_inspection_git.git
 ### Partie 6 — Réflexion
 
 15. Pourquoi est-il important de **taguer** des versions dans un projet ?  
-16. Que peut-on déduire du style de travail de l'équipe à partir de cet historique GIT ?  
+   ```sh
+   # affin de pouvoir retourner à des version antérieures si besoin
+   ```
+16. Que peut-on déduire du style de travail de l'équipe à partir de cet historique GIT ?
+   ```sh
+   # ils sont orgaisé
+   ```
 
 Bonne chance, et surtout... **ne vous perdez pas dans le log !** 😉
