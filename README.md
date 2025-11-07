@@ -40,24 +40,48 @@ https://github.com/ETML-RRY/324_inspection_git.git
    # feature/login
    # hotfix/typo
    ```  
+<<<<<<< HEAD
 3. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?
+=======
+2. Quels sont les **tags** disponibles ? A quoi correspondent-ils ?
+>>>>>>> 3920b4e0692a22569c67742cd86598960f26e8a3
    ```sh
    # v0.2
    # v0.1
    # correspondent aux versions du projet
    ```
+<<<<<<< HEAD
 5. Quelle est la **branche principale** du projet ?
+=======
+3. Quelle est la **branche principale** du projet ?
+>>>>>>> 3920b4e0692a22569c67742cd86598960f26e8a3
    ```sh
    # main
    ```
 
 ### Partie 3 — Historique et commits
 
-4. Quel est le message du **premier commit** du projet ?  
+4. Quel est le message du **premier commit** du projet ? 
+   ```sh
+   # Initial commit: structure HTML/CSS/JS + README + docs
+   ```
 5. Trouvez le commit où une **clé API** a été ajoutée par erreur. Quel est son identifiant (hash court) ?  
+   ```sh
+   # bea2d
+   ```
 6. Quel commit a ensuite corrigé cette erreur ?  
+   ```sh
+   # 1b682
+   ```
 7. Trouvez le commit où le **titre de la page d'accueil** a été corrigé.  
+   ```sh
+   # 6317c
+   ```
 8. Quel est le message du commit qui a **ajouté le fichier `CHANGELOG.md`** et quelle commande avez-vous utilisé ?
+   ```sh
+   # docs: ajoute un changelog de base
+   # git log
+   ```
 
 ### Partie 4 — Branches et fusions
 
